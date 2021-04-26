@@ -109,30 +109,30 @@ http://latinoamericatv.vip:3334/paco/paco123/90
 http://latinoamericatv.vip:3334/paco/paco123/91
 #EXTINF:-1,HISTORY HD
 http://latinoamericatv.vip:3334/paco/paco123/92
+#EXTINF:-1,HISTORY 2 HD
+http://latinoamericatv.vip:3334/paco/paco123/102
 #EXTINF:-1,DISCOVERY  HOME & HEALTH SD
 http://latinoamericatv.vip:3334/paco/paco123/108
 #EXTINF:-1,DISCOVERY HOME & HEALTH HD
 http://latinoamericatv.vip:3334/paco/paco123/95
-#EXTINF:-1,DISCOVERY CHANNEL HD
+#EXTINF:-1,DISCOVERY CHANNEL SD
 http://latinoamericatv.vip:3334/paco/paco123/96
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://latinoamericatv.vip:3334/paco/paco123/104
 #EXTINF:-1,ANIMAL PLANET HD
 http://latinoamericatv.vip:3334/paco/paco123/97
 #EXTINF:-1,DISCOVERY THEATER
 http://latinoamericatv.vip:3334/paco/paco123/98
-#EXTINF:-1,Discovery turbo
+#EXTINF:-1,DISCOVERY TURBO
 http://latinoamericatv.vip:3334/paco/paco123/99
-#EXTINF:-1,Discovery world
+#EXTINF:-1,DISCOVERY WORLD
 http://latinoamericatv.vip:3334/paco/paco123/100
 #EXTINF:-1,TLC
 http://latinoamericatv.vip:3334/paco/paco123/101
-#EXTINF:-1,HISTORY HD 2
-http://latinoamericatv.vip:3334/paco/paco123/102
 #EXTINF:-1,EL GOURMET SD
 http://latinoamericatv.vip:3334/paco/paco123/1032
 #EXTINF:-1,EL GOURMET HD
 http://latinoamericatv.vip:3334/paco/paco123/103
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://latinoamericatv.vip:3334/paco/paco123/104
 #EXTINF:-1,DISCOVERY SCIENCE
 http://latinoamericatv.vip:3334/paco/paco123/105
 #EXTINF:-1,NATGEO WILD HD
@@ -163,8 +163,6 @@ http://latinoamericatv.vip:3334/paco/paco123/125
 http://latinoamericatv.vip:3334/paco/paco123/120
 #EXTINF:-1,DISNEY CHANNEL HD
 http://latinoamericatv.vip:3334/paco/paco123/121
-#EXTINF:-1,EUR | NBA FHD (L)
-http://latinoamericatv.vip:3334/paco/paco123/130
 #EXTINF:-1,MOVISTAR  F1
 http://latinoamericatv.vip:3334/paco/paco123/132
 #EXTINF:-1,RED BULL TV
@@ -179,6 +177,8 @@ http://latinoamericatv.vip:3334/paco/paco123/151
 http://latinoamericatv.vip:3334/paco/paco123/156
 #EXTINF:-1,UFC FIGHT PASS
 http://latinoamericatv.vip:3334/paco/paco123/153
+#EXTINF:-1,NBA FHD
+http://latinoamericatv.vip:3334/paco/paco123/130
 #EXTINF:-1,PPVV | MX  ESPN +
 http://latinoamericatv.vip:3334/paco/paco123/154
 #EXTINF:-1,PPVV | ESPN 2 SUR  HD
@@ -337,8 +337,6 @@ http://latinoamericatv.vip:3334/paco/paco123/972
 http://latinoamericatv.vip:3334/paco/paco123/973
 #EXTINF:-1,TNT SPORTS FHD | DEP_ARG
 http://latinoamericatv.vip:3334/paco/paco123/979
-#EXTINF:-1,TYC SPORTS | DEP_ARG
-http://latinoamericatv.vip:3334/paco/paco123/981
 #EXTINF:-1,Usa: UNIVISION 
 http://latinoamericatv.vip:3334/paco/paco123/982
 #EXTINF:-1,WIN SPORTS + HD | DEP_COL

@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1,FOX SPORTS
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/audio_4/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 1
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/track_1_500/playlist.m3u8
 #EXTINF:-1,WILLAX
 http://latinoamericatv.vip:3334/paco/paco123/241
 #EXTINF:-1,LATINA SD
